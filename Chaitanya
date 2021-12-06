@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title></title>
+</head>
+<style>
+body {
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG1PbZuBMeugYoAEkywZ4BJjj3KkfuNNAwXqU9wX14m_zNlJPznzxFB_skm2R7pLRsdrk&usqp=CAU');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1 {text-align: center;}
+p {
+  text-indent: 50px;
+}
+h2 {text-align: center;}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+<body> 
+
+<h1><b>Historical Architectures of "JAIPUR"</b></h1>
+<p>Jaipur is the capital of India’s Rajasthan state. It evokes the royal family that once ruled the region and that, in 1727, founded what is now called <b>The Old City</b>, or <b>“Pink City”</b> for its trademark building color. At the center of its stately street grid (notable in India) stands the opulent, colonnaded City Palace complex. With gardens, courtyards and museums, part of it is still a royal residence.<br><br>Jaipur - Jaipur, the capital of the North Indian State of Rajasthan, is named after its <b>founder Maharaja Jai Singh II</b> (1693-1743). The city is surrounded by hills and dotted with forts. Houses with pink latticed windows line the streets, and look almost magical at sunset.<br><br>
+ An extremely well planned city, Jaipur was designed by an engineer and scholar Vidyadhar Bhattacharya, in accordance with ancient Hindu treatise on architecture, <b>The Shilpa Shasta (Vastu)</b>.<br><br>It was planned in a grid system with wide straight avenues, roads, streets and lanes and uniform rows of shops on either side of the main roads. Jaipur remains the only place where <b>The nine sectors</b> that sub-divide the city symbolise the nine divisions of the universe. Jaipur is surrounded by a wall having seven gates and was built for protection from invading armies and wild animals that lurked just outside in the jungles that surrounded the city.<br><br>The Old City, also known as the Pink City, is a wonderful place to wander around. The whole city was painted pink by <b>Maharaja Man Singh II</b> when Prince of Wales, later Edward VII, visited Jaipur in 1876. Today, every home within the city is obliged by law to maintain this facade - hence Jaipur's is also called the Pink City.<br><br>
+The arts and crafts of the state are amazing. You'll find elaborately fashioned jewellery, the multi-coloured <b>'Bandhini'</b> fabrics, richly decorated handlooms, and other trinkets at the colourful bazaars of Jaipur. These bazaars are a lot of fun not just for what's available, but also for the cheerful people in their traditional costumes.
+<b>Important places to visit in Jaipur include the Amber Fort, the City Palace and Museum, Jantar Mantar, Hawa Mahal and the Albert Hall Museum.</b>
+<h2><b>Galtaji Temple</b></h2>
+</p>
+<img src="https://www.fabhotels.com/blog/wp-content/uploads/2019/03/Galtaji-Temple.jpg" alt="Paris" style="width:70%;">
+
+
+</body>
+</html>
